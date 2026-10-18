@@ -39,32 +39,31 @@ Automate the build and deployment of a website using Jenkins and Docker. Every t
 ## Screenshots
 
 ### 1. EC2 instance launch settings
-![EC2 launch](Screenshot_2026-10-18_132931.png)
+![EC2 launch](Screenshot%202026-10-18%20132931.png)
 
 ### 2. Security group (ports 22, 80, 8080)
-![Security group](Screenshot_2026-10-18_135517.png)
+![Security group](Screenshot%202026-10-18%20135517.png)
 
 ### 3. Jenkins installed and running
-![Jenkins installed](Screenshot_2026-10-18_135001.png)
+![Jenkins installed](Screenshot%202026-10-18%20135001.png)
 
 ### 4. Jenkins node online
-![Node online](Screenshot_2026-10-18_141207.png)
+![Node online](Screenshot%202026-10-18%20141207.png)
 
 ### 5. Pipeline created
-![Pipeline created](Screenshot_2026-10-18_141813.png)
+![Pipeline created](Screenshot%202026-10-18%20141813.png)
 
 ### 6. Build successful (Console Output)
-![Build success](Screenshot_2026-10-18_142144.png)
+![Build success](Screenshot%202026-10-18%20142144.png)
 
 ### 7. Container running (docker ps)
-![docker ps](Screenshot_2026-10-18_142412.png)
+![docker ps](Screenshot%202026-10-18%20142412.png)
 
 ### 8. Website live
-![Website](Screenshot_2026-10-18_142517.png)
+![Website](Screenshot%202026-10-18%20142517.png)
 
 ### 9. EC2 instance terminated
-![Terminated](Screenshot_2026-10-18_142720.png)
-
+![Terminated](Screenshot%202026-10-18%20142720.png)
 ## Learning Outcomes
 - CI/CD pipeline basics with Jenkins
 - Docker image build and container run
